@@ -1,0 +1,19 @@
+{
+  "name": "selectize-polyfill",
+  "version": "0.1.0",
+  "main": "dist",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ]
+}
