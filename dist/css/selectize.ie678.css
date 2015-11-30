@@ -1,0 +1,12 @@
+/**
+ * Selectize ie678 polyfill
+ * author: r.babakhani babakhni.reza@gmail.com
+ * Git: https://github.com/babakhani/selectize.polyfill
+ */
+
+.selectize-input input {
+    box-shadow: none !important;
+    position: relative;
+    top: -4px;
+    height: 20px;
+}
