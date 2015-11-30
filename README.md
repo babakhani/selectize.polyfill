@@ -8,6 +8,9 @@ Support IE 6 7 8
 
 Usage:
 ```html
+    <link rel="stylesheet" href="path_to_selectize/css/selectize.css"/>
+    <script type="text/javascript" src="path_to_selectize/js/selectize.js"></script>
+
     <!--[if IE 6]>
     <link rel="stylesheet" href="path_to_selectize_polyfill/css/selectize.ie6.css"/>
     <![endif]-->
