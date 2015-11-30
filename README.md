@@ -9,10 +9,10 @@ Support IE 6 7 8
 Usage:
 ```html
     <!--[if IE 6]>
-    <link rel="stylesheet" href="selectize_polyfill/selectize.ie6.css"/>
+    <link rel="stylesheet" href="path_to_selectize_polyfill/css/selectize.ie6.css"/>
     <![endif]-->
     <!--[if lt IE 9]>
-    <link rel="stylesheet" href="selectize_polyfill/selectize.ie678.css"/>
-    <script type="text/javascript" src="selectize_polyfill/selectize.crossbrowser.js"></script>
+    <link rel="stylesheet" href="path_to_selectize_polyfill/css/selectize.ie678.css"/>
+    <script type="text/javascript" src="path_to_selectize_polyfill/js/selectize.crossbrowser.js"></script>
     <![endif]-->
 ```
