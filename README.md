@@ -1,7 +1,7 @@
-PersianDate
+Selectize Polyfill
 ===========
 
-http://babakhani.github.io/PersianWebToolkit/persiandate
+https://github.com/babakhani/selectize.polyfill
 
-
-javascript date library for parsing, validating, manipulating, and formatting persian dates System.
+Polyfill for Selectize https://github.com/brianreavis/selectize.js
+Support IE 6 7 8
